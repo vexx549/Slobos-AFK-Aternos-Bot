@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "LunaSMP-nwKu.aternos.me",
-    "port": 34082,
+    "ip": "slobtest1.aternos.me",
+    "port": 27586,
     "version": "",
     "try-creative": false
   },
@@ -25,7 +25,15 @@
     "anti-afk": {
       "enabled": true,
       "sneak": true
-
+    },
+    "chat-messages": {
+      "enabled": false,
+      "repeat": true,
+      "repeat-delay": 120,
+      "messages": [
+        "I'm a regular player",
+        "Subscribe to Slobos!",
+        "I like to play Minecraft!"
       ]
     },
     "chat-log": true,
