@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "LunaSMP-nwKu.aternos.me:34082",
+    "port": 34082,
     "version": "",
     "try-creative": false
   },
