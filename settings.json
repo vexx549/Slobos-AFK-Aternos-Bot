@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "LunarspaceSMP.aternos.me:34082",
+    "ip": "LunarspaceSMP.aternos.me",
     "port": 34082,
     "version": "",
     "try-creative": false
